@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Harippriyaweb/static/css/main.48bc1923.css",
+    "main.js": "/Harippriyaweb/static/js/main.176a1efb.js",
+    "static/js/453.b9791d9a.chunk.js": "/Harippriyaweb/static/js/453.b9791d9a.chunk.js",
+    "index.html": "/Harippriyaweb/index.html",
+    "main.48bc1923.css.map": "/Harippriyaweb/static/css/main.48bc1923.css.map",
+    "main.176a1efb.js.map": "/Harippriyaweb/static/js/main.176a1efb.js.map",
+    "453.b9791d9a.chunk.js.map": "/Harippriyaweb/static/js/453.b9791d9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48bc1923.css",
+    "static/js/main.176a1efb.js"
+  ]
+}
